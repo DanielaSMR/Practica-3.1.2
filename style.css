@@ -1,0 +1,43 @@
+body{
+    background-image: url(img/papel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.desayuno{
+    float:left;
+    margin-left: 350px;
+}
+
+h1.titulo{
+    color: burlywood;
+    background-image: url(img/gothic-victorian-wallpaper-preview.jpg);
+    display: inline-block;
+    vertical-align:top;
+    font-size: 900%;
+    font-style: italic;
+    margin:50px
+}
+div.Casa{
+    color:rgb(94, 24, 24);
+    border-right: 20px;
+    position: relative;
+    border: 20px;
+    display: inline-block;
+    margin-left: 15%;
+}
+
+div.Zumos{
+    color:rgb(94, 24, 24);
+    position: relative;
+    border: 20px;
+    margin:50px;
+    display: inline-block;
+}
+
+h2.titulos{
+    font-style: italic;
+}
+li{
+    font-size: 20px;
+}
